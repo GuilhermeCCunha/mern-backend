@@ -9,6 +9,7 @@ Este projeto eu fiz durante o curso Angular & NodeJS - The MEAN Stack Guide da  
 - Autorização
 - Upload de imagens
 - CRUD
+- Uso da API Geocoding do Google para converter um endereço em coordenadas
 
 ## Frontend
 
